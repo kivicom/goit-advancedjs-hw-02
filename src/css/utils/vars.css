@@ -1,0 +1,12 @@
+:root {
+    --font-family: 'Montserrat', sans-serif;
+    --animation-hover: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    --animation-desc: 400ms cubic-bezier(0.4, 0, 0.2, 1);
+    --overlay-color: #2e2f42cc;
+    --white: #ffffff;
+    --dark: #000;
+    --main-cl: #4e75ff;
+    --accent-cl: #6c8cff;
+    --text-cl: #2e2f42;
+    --border-cl: #808080;
+}

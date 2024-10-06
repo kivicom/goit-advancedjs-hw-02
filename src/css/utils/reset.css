@@ -1,0 +1,17 @@
+body {
+  font-family: var(--font-family);
+}
+
+ul,
+li {
+  list-style-type: none;
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+button {
+  font-family: inherit;
+  color: currentColor;
+  cursor: pointer;
+}
